@@ -1,0 +1,10 @@
+plat: 75.000000
+lin: 0.925000
+solv: 1.000000
+fitness1: 0.075000
+ene: 20.000000
+obs: 15.000000
+ene_destvest: 0.471896
+obs_destvest: 1.120359
+fitness2: 1.592254
+time: 0.304022
